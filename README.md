@@ -1,0 +1,2 @@
+# ServidorSocket
+Servidor interpool.
